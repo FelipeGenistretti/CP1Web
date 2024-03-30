@@ -13,3 +13,12 @@ console.log("2) 'ia':", ultimaPosicaoIa);
 
 // 3) Palavra "ciência"
 let posicaoCiencia = texto.indexOf("ciência");
+console.log("3) Posição 'ciência':", posicaoCiencia);
+
+
+// 4) Palavra "métodos"
+let posicaoMetodos = texto.indexOf("métodos");
+console.log("4) Posição 'métodos':", posicaoMetodos);
+
+
+
